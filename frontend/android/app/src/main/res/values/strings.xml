@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">TamilNadu Restaurants</string>
+    <string name="title_activity_main">TamilNadu Restaurants</string>
+    <string name="package_name">com.restaurant.tn</string>
+    <string name="custom_url_scheme">com.restaurant.tn</string>
+</resources>

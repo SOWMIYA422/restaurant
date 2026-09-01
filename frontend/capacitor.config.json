@@ -1,0 +1,6 @@
+{
+  "appId": "com.restaurant.tn",
+  "appName": "TamilNadu Restaurants",
+  "webDir": "dist",
+  "bundledWebRuntime": false
+}
