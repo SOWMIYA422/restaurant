@@ -28,9 +28,15 @@ export default defineConfig({
         display: 'standalone',
         icons: [
           {
-            src: 'icon.svg',
-            sizes: 'any',
-            type: 'image/svg+xml',
+            src: 'https://ui-avatars.com/api/?name=TN+Eats&size=192&background=0f172a&color=eab308',
+            sizes: '192x192',
+            type: 'image/png',
+            purpose: 'any maskable'
+          },
+          {
+            src: 'https://ui-avatars.com/api/?name=TN+Eats&size=512&background=0f172a&color=eab308',
+            sizes: '512x512',
+            type: 'image/png',
             purpose: 'any maskable'
           }
         ]
